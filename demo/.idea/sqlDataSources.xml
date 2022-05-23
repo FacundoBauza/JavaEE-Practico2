@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="d29d2150-1c6f-447e-ac03-8bde492c12f3" name="postgres@localhost Mapping">
+      <data-sources db="b3fa75fa-8f88-4acb-8897-6de42602e510" />
+      <scope>
+        <node kind="database" qname="cineCalidad" />
+      </scope>
+    </mapping>
+  </component>
+</project>
